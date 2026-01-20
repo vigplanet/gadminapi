@@ -1,0 +1,5 @@
+{
+    "version": "2.1.3",
+    "archive": "RELEASE-2.13.zip",
+   "description": "+ [Added] Blogs module added with SEO <br/> + [Added] Time slot enable/disable option with date hide/show control <br/> + [Added] On/Off setting for doorstep delivery <br/> + [Added] Product request option from customer side <br/> + [Added] Free delivery time slot option <br/> + [Fix] Product detail page improvement in website <br/> + [Fix] Order and self-pickup list pagination in admin panel <br/> + [Fix] Deep link issue fixed <br/> + [Improvements] Product bulk upload system and process <br/>+ [Improvements] Seller forgot password flow in app <br/>+ [Improvements] Delivery boy forgot password flow in app"
+}
